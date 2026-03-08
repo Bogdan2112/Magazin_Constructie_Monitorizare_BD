@@ -1,0 +1,380 @@
+[
+  {
+    "timestamp": "2026-02-24T00:08:04",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.8614999969722703
+  },
+  {
+    "timestamp": "2026-02-24T00:08:14",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.7642999989911914
+  },
+  {
+    "timestamp": "2026-02-24T00:08:23",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 1.0223999997833744
+  },
+  {
+    "timestamp": "2026-02-24T00:08:34",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "JOIN",
+    "duration_ms": 0.9752999976626597
+  },
+  {
+    "timestamp": "2026-02-24T15:07:04",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 9.120599999960177
+  },
+  {
+    "timestamp": "2026-02-24T15:07:11",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.9218999999802691
+  },
+  {
+    "timestamp": "2026-02-24T15:07:24",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 1.049999999963802
+  },
+  {
+    "timestamp": "2026-02-24T15:07:36",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "JOIN",
+    "duration_ms": 0.9206999999946675
+  },
+  {
+    "timestamp": "2026-02-24T15:07:52",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 1.0273000000324828
+  },
+  {
+    "timestamp": "2026-02-24T15:08:39",
+    "kpi_id": 3,
+    "kpi_name": "Produse cu vânzări reduse",
+    "query_type": "Simplu",
+    "duration_ms": 0.8150000000455293
+  },
+  {
+    "timestamp": "2026-02-24T15:08:43",
+    "kpi_id": 3,
+    "kpi_name": "Produse cu vânzări reduse",
+    "query_type": "Simplu",
+    "duration_ms": 0.8771000000251661
+  },
+  {
+    "timestamp": "2026-02-24T15:08:45",
+    "kpi_id": 3,
+    "kpi_name": "Produse cu vânzări reduse",
+    "query_type": "JOIN",
+    "duration_ms": 0.9439000000384112
+  },
+  {
+    "timestamp": "2026-02-24T15:08:57",
+    "kpi_id": 4,
+    "kpi_name": "Total cheltuit per client",
+    "query_type": "Simplu",
+    "duration_ms": 1.0863000000540524
+  },
+  {
+    "timestamp": "2026-02-24T15:08:59",
+    "kpi_id": 4,
+    "kpi_name": "Total cheltuit per client",
+    "query_type": "JOIN",
+    "duration_ms": 1.1862999999721069
+  },
+  {
+    "timestamp": "2026-02-24T15:09:23",
+    "kpi_id": 4,
+    "kpi_name": "Total cheltuit per client",
+    "query_type": "JOIN",
+    "duration_ms": 0.8500000000140062
+  },
+  {
+    "timestamp": "2026-02-24T15:09:29",
+    "kpi_id": 4,
+    "kpi_name": "Total cheltuit per client",
+    "query_type": "JOIN",
+    "duration_ms": 0.9340999999949418
+  },
+  {
+    "timestamp": "2026-02-24T15:09:37",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 1.0132999999541425
+  },
+  {
+    "timestamp": "2026-02-24T15:09:45",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 0.9001000000239401
+  },
+  {
+    "timestamp": "2026-02-24T15:09:49",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 0.95410000000129
+  },
+  {
+    "timestamp": "2026-02-24T15:09:52",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 1.0541999999986729
+  },
+  {
+    "timestamp": "2026-02-24T15:09:55",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8260999999833984
+  },
+  {
+    "timestamp": "2026-02-24T15:09:56",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8808000000044558
+  },
+  {
+    "timestamp": "2026-02-24T15:09:57",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 1.0523000000262073
+  },
+  {
+    "timestamp": "2026-02-24T15:09:57",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8860000000368018
+  },
+  {
+    "timestamp": "2026-02-24T15:09:57",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8563000000094689
+  },
+  {
+    "timestamp": "2026-02-24T15:09:57",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.7908000000043103
+  },
+  {
+    "timestamp": "2026-02-24T15:31:51",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.7871000000250206
+  },
+  {
+    "timestamp": "2026-02-24T15:32:06",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 0.9519000000182132
+  },
+  {
+    "timestamp": "2026-02-24T15:32:30",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.7510999998885382
+  },
+  {
+    "timestamp": "2026-02-24T15:32:32",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.9178999998766812
+  },
+  {
+    "timestamp": "2026-02-24T15:32:33",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8221999999022955
+  },
+  {
+    "timestamp": "2026-02-24T15:33:36",
+    "kpi_id": 3,
+    "kpi_name": "Produse cu vânzări reduse",
+    "query_type": "Simplu",
+    "duration_ms": 1.3722999999572494
+  },
+  {
+    "timestamp": "2026-02-24T15:33:41",
+    "kpi_id": 3,
+    "kpi_name": "Produse cu vânzări reduse",
+    "query_type": "JOIN",
+    "duration_ms": 0.8905000001959706
+  },
+  {
+    "timestamp": "2026-02-24T15:34:21",
+    "kpi_id": 8,
+    "kpi_name": "Număr comenzi per produs (JOIN)",
+    "query_type": "Simplu",
+    "duration_ms": 0.9904999999434949
+  },
+  {
+    "timestamp": "2026-02-24T15:34:22",
+    "kpi_id": 8,
+    "kpi_name": "Număr comenzi per produs (JOIN)",
+    "query_type": "JOIN",
+    "duration_ms": 0.953699999854507
+  },
+  {
+    "timestamp": "2026-02-24T15:34:23",
+    "kpi_id": 8,
+    "kpi_name": "Număr comenzi per produs (JOIN)",
+    "query_type": "Simplu",
+    "duration_ms": 0.8517999999639869
+  },
+  {
+    "timestamp": "2026-02-24T15:34:55",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.7898999999724765
+  },
+  {
+    "timestamp": "2026-02-24T15:35:02",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.8256000000983477
+  },
+  {
+    "timestamp": "2026-02-24T15:35:03",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8184000000710512
+  },
+  {
+    "timestamp": "2026-02-24T15:35:09",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8742999998503365
+  },
+  {
+    "timestamp": "2026-02-24T15:35:14",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 0.8980999998584593
+  },
+  {
+    "timestamp": "2026-02-24T15:35:15",
+    "kpi_id": 1,
+    "kpi_name": "Nr. produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.7482999999410822
+  },
+  {
+    "timestamp": "2026-02-24T15:41:02",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.9838000000854663
+  },
+  {
+    "timestamp": "2026-02-24T15:41:04",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "JOIN",
+    "duration_ms": 1.075700000001234
+  },
+  {
+    "timestamp": "2026-02-24T15:41:29",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 1.1291000000710483
+  },
+  {
+    "timestamp": "2026-02-24T15:43:03",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 1.1137999999846215
+  },
+  {
+    "timestamp": "2026-02-24T16:08:49",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 0.986199999715609
+  },
+  {
+    "timestamp": "2026-02-24T16:09:05",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 1.1727999999493477
+  },
+  {
+    "timestamp": "2026-02-24T16:12:01",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 1.0809000004883274
+  },
+  {
+    "timestamp": "2026-02-24T16:19:30",
+    "kpi_id": 1,
+    "kpi_name": "Produse cu stoc < 30",
+    "query_type": "Simplu",
+    "duration_ms": 1.2434999998731655
+  },
+  {
+    "timestamp": "2026-02-24T23:35:31",
+    "kpi_id": 6,
+    "kpi_name": "Nr. comenzi per produs",
+    "query_type": "Simplu",
+    "duration_ms": 3.581199998734519
+  },
+  {
+    "timestamp": "2026-02-24T23:35:40",
+    "kpi_id": 6,
+    "kpi_name": "Nr. comenzi per produs",
+    "query_type": "JOIN",
+    "duration_ms": 0.9295000018028077
+  },
+  {
+    "timestamp": "2026-03-08T17:33:44",
+    "kpi_id": 2,
+    "kpi_name": "Total vânzări pe categorie",
+    "query_type": "Simplu",
+    "duration_ms": 3.2291000006807735
+  },
+  {
+    "timestamp": "2026-03-08T17:37:23",
+    "kpi_id": 4,
+    "kpi_name": "Total cheltuit per client",
+    "query_type": "Simplu",
+    "duration_ms": 1.092900000003283
+  }
+]
